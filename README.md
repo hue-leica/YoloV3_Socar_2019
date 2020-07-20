@@ -15,3 +15,6 @@
 =====
 ![detection](https://postfiles.pstatic.net/MjAyMDA1MjlfMTY0/MDAxNTkwNzMzMjc2MjUz.BNwxRY6xVxhIQz0gH3KB6v-DZLf3mcnBN7dXqPC_Hykg.bpYe8CBEcfRutAU3soDYqinPhcVJT25oTHECyj-puUwg.JPEG.wjddnr972/predictions.jpg?type=w773)
 
+상장 
+=====
+![good](https://raw.githubusercontent.com/neity16/YoloV3_Socar_2019/master/img/%E1%84%89%E1%85%A9%E1%84%8F%E1%85%A1%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%85%E1%85%A7%E1%84%89%E1%85%A1%E1%86%BC.jpeg)
